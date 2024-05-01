@@ -125,19 +125,19 @@
                 <div class="space-y-4">
                     <p>Get in touch with us for more information about our vermicomposting service.</p>
                     <div class="flex items-center gap-2">
-                        <PhoneIcon class="text-green-500" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>+1 (123) 456-7890</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <MailIcon class="text-green-500" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>info@acme.com</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <LocateIcon class="text-green-500" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>123 Main St, Anytown USA</span>
                     </div>
                     <div class="flex items-center gap-2">
-                        <GlobeIcon class="text-green-500" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>www.acme.com</span>
                     </div>
                 </div>
