@@ -20,7 +20,7 @@ declare module 'nuxt/schema' {
    tailwindIcons: {
       forceTailwind: boolean,
 
-      resolvedPrefixes: Array<any>,
+      resolvedPrefixes: Array<string>,
 
       prefix: string,
 

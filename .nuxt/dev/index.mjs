@@ -104,7 +104,9 @@ const _inlineRuntimeConfig = {
   "public": {
     "tailwindIcons": {
       "forceTailwind": false,
-      "resolvedPrefixes": [],
+      "resolvedPrefixes": [
+        "i-mdi"
+      ],
       "prefix": "i",
       "scale": 1
     }

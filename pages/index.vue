@@ -24,15 +24,15 @@
                 </p>
                 <ul class="mt-6 space-y-4">
                     <li class="flex items-center">
-                        <Icon name="uil:github" color="black" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>Reduces waste and environmental impact</span>
                     </li>
                     <li class="flex items-center">
-                        <Icon name="uil:github" color="black" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>Produces nutrient-rich compost for your plants</span>
                     </li>
                     <li class="flex items-center">
-                        <Icon name="uil:github" color="black" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>Easy to maintain and low-maintenance</span>
                     </li>
                 </ul>
@@ -48,21 +48,21 @@
                 </p>
                 <div class="mt-6 space-y-4">
                     <div class="flex items-start">
-                        <TruckIcon class="text-green-500 mr-3 mt-1" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <div>
                             <h3 class="text-lg font-medium">Delivery and Setup</h3>
                             <p class="text-gray-600">We deliver your worm bin and set it up for you.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
-                        <BugIcon class="text-green-500 mr-3 mt-1" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <div>
                             <h3 class="text-lg font-medium">Worm Care</h3>
                             <p class="text-gray-600">Our team will provide guidance on caring for your worms.</p>
                         </div>
                     </div>
                     <div class="flex items-start">
-                        <LeafIcon class="text-green-500 mr-3 mt-1" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <div>
                             <h3 class="text-lg font-medium">Nutrient-Rich Compost</h3>
                             <p class="text-gray-600">Enjoy the benefits of high-quality vermicompost for your plants.
@@ -95,15 +95,15 @@
                     experts will guide you through the process every step of the way.</p>
                 <ul class="mt-6 space-y-4">
                     <li class="flex items-center">
-                        <CheckIcon class="text-green-500 mr-3" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>High-quality worm bin and supplies</span>
                     </li>
                     <li class="flex items-center">
-                        <CheckIcon class="text-green-500 mr-3" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>Expert guidance and support</span>
                     </li>
                     <li class="flex items-center">
-                        <CheckIcon class="text-green-500 mr-3" />
+                        <Icon name="uil:github" class="w-6 h-6" />
                         <span>Convenient delivery and setup</span>
                     </li>
                 </ul>
@@ -177,7 +177,7 @@
 </footer>
 <div class="fixed bottom-4 right-4">
     <nuxt-link to="#" class="bg-green-500 hover:bg-green-600 text-white p-6 rounded-full shadow-lg transition-colors flex items-center justify-center">
-        <Icon name="uil:whatsapp" class="h-10 w-10" />
+        <Icon name="uil:github" class="w-6 h-6" />
         <span class="sr-only">WhatsApp</span>
     </nuxt-link>
 </div>
